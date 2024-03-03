@@ -6,7 +6,7 @@ __        __    _                        _   _ _____ ___
    \_/\_/ \__,_|_|\_\___|  \__,_| .__/  |_| \_|_____\___/ 
                                 |_|                       
 </pre>
-
+<img src="https://giphy.com/gifs/hacking-kung-fury-hackerman-VHHxxFAeLaYzS" alt="TryHackMe">
 <p><a href="https://giphy.com/gifs/hacking-kung-fury-hackerman-VHHxxFAeLaYzS"></a></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=c0dexio&label=Profile%20views&color=0e75b6&style=flat" alt="c0dexio" /> </p>
 
