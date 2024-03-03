@@ -22,7 +22,7 @@
   
 </p>
 
-<img align="left" src="https://raw.githubusercontent.com/c0dexio/Marbati/master/assets/thm_propic.png" alt="TryHackMe">
+
 <img align="left" src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
 
 
