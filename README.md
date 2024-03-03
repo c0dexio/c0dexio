@@ -11,8 +11,8 @@
 <h3 align="center">I'm Ashraf, a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
 <p> Here you can find some tools i make with python to automate some tasks :
 <ul>
- <li> Passive Reconaissance Tools : <p>Crawling <a href="Shodan.io">Shodan.io</a> and <a href="search.censys.io">Search.censys.io</a> to find open ports, DNS Whois and more valuable informations</p></li>
- <li> Brute Force Tools</li>
+ <li> Passive Reconaissance Tool : <p>Crawling <a href="Shodan.io">Shodan.io</a> and <a href="search.censys.io">Search.censys.io</a> to find open ports, DNS Whois and more valuable informations</p></li>
+ <li> Webapp Brute Force Tool : <p>A small PoC on brute forcing login.php pages for web applications</p></li>
 </ul>
 </p>
 
