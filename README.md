@@ -7,7 +7,7 @@ __        __    _                        _   _ _____ ___
                                 |_|                       
 </pre>
 
-<iframe src="https://giphy.com/embed/VHHxxFAeLaYzS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacking-kung-fury-hackerman-VHHxxFAeLaYzS">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/hacking-kung-fury-hackerman-VHHxxFAeLaYzS"></a></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=c0dexio&label=Profile%20views&color=0e75b6&style=flat" alt="c0dexio" /> </p>
 
 <h3 align="left">I'm Ashraf, a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
