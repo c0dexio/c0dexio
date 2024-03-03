@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Achraf</h1>
-<h3 align="left">CyberSecurity Student / THM Player</h3>
+<h3 align="left">I am a Technical Support Specialist / CyberSecurity Student / THM Player</h3>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
 
