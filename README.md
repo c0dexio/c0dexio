@@ -15,7 +15,7 @@
 </ul>
 </p>
 
-<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
+<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
 
 
 
