@@ -6,12 +6,12 @@ __        __    _                        _   _ _____ ___
    \_/\_/ \__,_|_|\_\___|  \__,_| .__/  |_| \_|_____\___/ 
                                 |_|                       
 </pre>
-<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExank1bDhlcHltaHNzZ2FjdXBwdjVvNm9nZ2FxdzN5eGo5djBkenM5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif" alt="c0dexio" /> </p>
 
-<h3 align="left">I'm Ashraf, a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
+
+<h3 align="center">I'm Ashraf, a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
 <p> </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
 
 
 
