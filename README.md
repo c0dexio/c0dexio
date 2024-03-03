@@ -24,6 +24,6 @@
 </p>
 
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
-<a align="center" href="https://linkedin.com/in/achraf-marbati" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf-marbati" height="30" width="40" style="max-width: 100%;"></a>
+
 
 
