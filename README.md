@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Achraf</h1>
 <h3 align="center">CyberSecurity Student</h3>
 
-<!- Views Counter ->
+<img src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dexio&label=Profile%20views&color=0e75b6&style=flat" alt="c0dexio" /> </p>
 
 <p>
