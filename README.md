@@ -13,7 +13,7 @@
 <p> Here you can find some tools i make with python to automate pentest Desk tasks like :
 
 <ul>
- <li>  <a href="#"> FIRSTLOOK</a> : Passive Reconaissance Tool Based on <a href="Shodan.io">Shodan.io</a> and <a href="search.censys.io">Search.censys.io</a> to gather and manipulate valuable informations.</p></li>
+ <li>  <a href="#"> FIRSTLOOK</a> : Passive Reconaissance Tool Based on <a href="Shodan.io">Shodan.io</a> and <a href="search.censys.io">Search.censys.io</a> to gather informations about targets.</p></li>
  <li>Other furtur project...</li>
 </ul>
 
