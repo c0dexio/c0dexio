@@ -8,7 +8,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
 
-<pre>
+<pre align="center">
 __        __    _                        _   _ _____ ___  
 \ \      / /_ _| | _____   _   _ _ __   | \ | | ____/ _ \ 
  \ \ /\ / / _` | |/ / _ \ | | | | '_ \  |  \| |  _|| | | |
