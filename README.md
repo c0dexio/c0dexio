@@ -8,7 +8,7 @@
 
 <h1></h1>
 
-<h3 align="center">I'm Ashraf, a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
+<h3 align="left">I'm Ashraf, a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
 <p> Here you can find some tools i make with python to automate some tasks :
 <ul>
  <li> Passive Reconaissance Tool : <p>Crawling <a href="Shodan.io">Shodan.io</a> and <a href="search.censys.io">Search.censys.io</a> to find open ports, DNS Whois and more valuable informations</p></li>
