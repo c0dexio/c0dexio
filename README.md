@@ -11,7 +11,8 @@
 <h3 align="center">I'm Ashraf, a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
 <p> Here you can find some tools i make with python to automate some tasks :
 <ul>
- <li> Reconaissance Tools</li>
+ <li> Passive Reconaissance Tools : <p>Crawling Shodan and censys to find open ports, DNS Whois....</p></li>
+ <li> Brute Force Tools</li>
 </ul>
 </p>
 
