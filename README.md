@@ -13,11 +13,11 @@
 <ul>
  <li> Passive Reconaissance Tool Based on <a href="Shodan.io">Shodan.io</a> and <a href="search.censys.io">Search.censys.io</a> to gather and manipulate valuable informations.</p></li>
  <li> Webapp Brute Force Tool A (PoC) on brute forcing login formon web applications</p></li>
- <li>And any furtur project...</li>
+ <li>Other furtur project...</li>
 </ul>
 </p>
 
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
+<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
 
 
 
