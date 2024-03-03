@@ -6,9 +6,8 @@ __        __    _                        _   _ _____ ___
    \_/\_/ \__,_|_|\_\___|  \__,_| .__/  |_| \_|_____\___/ 
                                 |_|                       
 </pre>
-<img src="https://giphy.com/gifs/hacking-kung-fury-hackerman-VHHxxFAeLaYzS" alt="TryHackMe">
-<p><a href="https://giphy.com/gifs/hacking-kung-fury-hackerman-VHHxxFAeLaYzS"></a></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=c0dexio&label=Profile%20views&color=0e75b6&style=flat" alt="c0dexio" /> </p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
+<p align="right"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1kejYybHU4Z2dteGFneWxhcWhwbTZ6cmxxNDl6d2FrY29rcTF1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqxVRm1IaaIGk/giphy.gif" alt="c0dexio" /> </p>
 
 <h3 align="left">I'm Ashraf, a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
 <p> </p>
