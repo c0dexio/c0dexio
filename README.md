@@ -10,9 +10,9 @@
 
 <h3 align="center">I'm Ashraf, a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
 <p> Here you can find some tools i make with python to automate some tasks :
-<li>
- <ul> Reconaissance Tools
-</li>
+<ul>
+ <li> Reconaissance Tools</li>
+</ul>
 </p>
 
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
