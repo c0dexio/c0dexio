@@ -1,4 +1,8 @@
-<marquee> Achraf </marquee>
+<marquee> Lets Move this text.</marquee>
+    <marquee direction="right" behavior="alternate"
+             style="border:BLACK 2px SOLID">
+        Wake Up, Neo
+    </marquee>
 <h3 align="left">I am a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
 <p> </p>
 
