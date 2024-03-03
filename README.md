@@ -6,8 +6,7 @@ __        __    _                        _   _ _____ ___
    \_/\_/ \__,_|_|\_\___|  \__,_| .__/  |_| \_|_____\___/ 
                                 |_|                       
 </pre>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Marbati.png" alt="TryHackMe">
-<p align="right"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1kejYybHU4Z2dteGFneWxhcWhwbTZ6cmxxNDl6d2FrY29rcTF1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqxVRm1IaaIGk/giphy.gif" alt="c0dexio" /> </p>
+<p align="right"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExank1bDhlcHltaHNzZ2FjdXBwdjVvNm9nZ2FxdzN5eGo5djBkenM5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif" alt="c0dexio" /> </p>
 
 <h3 align="left">I'm Ashraf, a Technical Support Specialist / Python Coder / Pentest Student / THM Player</h3>
 <p> </p>
