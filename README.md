@@ -11,7 +11,9 @@
 <p align="left">I'm Ashraf</p>
 <p>
 /Technical Support Specialist 
-/Python Coder \n Pentest Student \n THM Player
+/Python Coder 
+/Pentest Student 
+/THM Player
 </p>
 <p> Here you can find some tools i make with python to automate some tasks :
 <ul>
