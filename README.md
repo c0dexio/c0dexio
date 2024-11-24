@@ -1,9 +1,20 @@
 <pre align="center">
-  ______   ______  _____ ____  __  __    _  _____ ____  _____  __
- / ___\ \ / / __ )| ____|  _ \|  \/  |  / \|_   _|  _ \|_ _\ \/ /
-| |    \ V /|  _ \|  _| | |_) | |\/| | / _ \ | | | |_) || | \  / 
-| |___  | | | |_) | |___|  _ <| |  | |/ ___ \| | |  _ < | | /  \ 
- \____| |_| |____/|_____|_| \_\_|  |_/_/   \_\_| |_| \_\___/_/\_\
+                                                                                     
+                                                                                     
+                                                                                     
+                                    j.         .                                  t  
+            ..       :           .. EW,        Ef.                    .. GEEEEEEELEj 
+           ,W,     .Et          ;W, E##j       E#Wi                  ;W, ,;;L#K;;.E#,
+          t##,    ,W#t         j##, E###D.     E#K#D:               j##,    t#E   E#t
+         L###,   j###t        G###, E#jG#W;    E#t,E#f.            G###,    t#E   E#t
+       .E#j##,  G#fE#t      :E####, E#t t##f   E#WEE##Wt         :E####,    t#E   E#t
+      ;WW; ##,:K#i E#t     ;W#DG##, E#t  :K#E: E##Ei;;;;.       ;W#DG##,    t#E   E#t
+     j#E.  ##f#W,  E#t    j###DW##, E#KDDDD###iE#DWWt          j###DW##,    t#E   E#t
+   .D#L    ###K:   E#t   G##i,,G##, E#f,t#Wi,,,E#t f#K;       G##i,,G##,    t#E   E#t
+  :K#t     ##D.    E#t :K#K:   L##, E#t  ;#W:  E#Dfff##E,   :K#K:   L##,    t#E   E#t
+  ...      #G      .. ;##D.    L##, DWi   ,KK: jLLLLLLLLL; ;##D.    L##,     fE   E#t
+           j          ,,,      .,,                         ,,,      .,,       :   ,;.
+                                                                                     
 </pre>
 
 <a href="https://git.io/typing-svg">
